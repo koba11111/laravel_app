@@ -1,8 +1,7 @@
 
-#　laravel_app
+# laravel_app
 
-画像掲示板です。
-
+画像投稿掲示板です。
 
 ## デモ
 
